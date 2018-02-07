@@ -1,0 +1,296 @@
+$D07-10-2017
+$LWest Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true
+$LResidence Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true
+$LUnion Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true
+$D07-11-2017
+$LWest Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true
+$LResidence Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true
+$LUnion Dining Center
+$MBreakfast~time=8:00a-10:30p
+$CDesserts
+$IGlazed Donut~glutenfree=false~vegetarian=true
+$CEntree
+$IBaked Cheese~glutenfree=false~vegetarian=false
+$IOmelet~glutenfree=true~vegetarian=true
+$IBreakfast Smokies~glutenfree=false~vegetarian=false
+$IChocolate Chip~glutenfree=false~vegetarian=false
+$IPancakes~glutenfree=false~vegetarian=true
+$CStarches
+$ISpicy Roasted~glutenfree=false~vegetarian=false
+$IPotatoes w/ Cheese~glutenfree=true~vegetarian=true
+$MLunch~time=12:00p-2:00p
+$CPrepared Salads
+$ICrunchy Cukes - Vegetarian~glutenfree=false~vegetarian=true
+$CBreads
+$IBreadsticks~glutenfree=false~vegetarian=true
+$CDesserts
+$ICream Cheese Chocolate Cake~glutenfree=false~vegetarian=true
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=false~vegetarian=false
+$CEntrees
+$IChicken Nibbles~glutenfree=false~vegetarian=false
+$ILemon Linguine~glutenfree=false~vegetarian=true
+$CStarches
+$ISour Cream & Chive~glutenfree=false~vegetarian=false
+$IPotato Wedges~glutenfree=false~vegetarian=true
+$CVegetables
+$IBroccoli Normandy Blend~glutenfree=true~vegetarian=true
+$CWoodstone
+$ICheese Pizza~glutenfree=false~vegetarian=true
+$IPepperoni Pizza~glutenfree=false~vegetarian=false
+$MDinner~time="4:00p-6:00p"
+$CBreads
+$IWhite Dinner Rolls~glutenfree=false~vegetarian=true
+$CDesserts
+$IWowbutter Smores Bar~glutenfree=false~vegetarian=false
+$CSoups/Chowders
+$ICheesy Ham Chowder~glutenfree=false~vegetarian=false
+$IVegetable Soup - Vegetarian~glutenfree=true~vegetarian=true
+$CEntrees
+$ITater Tot Casserole~glutenfree=false~vegetarian=false
+$IVegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true
+$CStarches
+$ITater Tots~glutenfree=false~vegetarian=true
+$CVegetables
+$IWhole Baby Carrots~glutenfree=true~vegetarian=true

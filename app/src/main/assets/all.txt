@@ -1,0 +1,27 @@
+Glazed Donut~glutenfree=false~vegetarian=true~type=desserts
+Baked Cheese~glutenfree=false~vegetarian=false~type=entrees
+Omelet~glutenfree=true~vegetarian=true~type=entrees
+Breakfast Smokies~glutenfree=false~vegetarian=false~type=entrees
+Chocolate Chip~glutenfree=false~vegetarian=false~type=entrees
+Pancakes~glutenfree=false~vegetarian=true~type=entrees
+Spicy Roasted~glutenfree=false~vegetarian=false~type=starches
+Potatoes w/ Cheese~glutenfree=true~vegetarian=true~type=starches
+Breadsticks~glutenfree=false~vegetarian=true~type=breads
+Cream Cheese Chocolate Cake~glutenfree=false~vegetarian=true~type=desserts
+Cheesy Ham Chowder~glutenfree=false~vegetarian=false~type=soups/chowders
+Vegetable Soup - Vegetarian~glutenfree=false~vegetarian=false~type=soups/chowders
+Chicken Nibbles~glutenfree=false~vegetarian=false~type=entrees
+Lemon Linguine~glutenfree=false~vegetarian=true~type=entrees
+Sour Cream & Chive~glutenfree=false~vegetarian=false~type=starches
+Potato Wedges~glutenfree=false~vegetarian=true~type=starches
+Broccoli Normandy Blend~glutenfree=true~vegetarian=true~type=vegetables
+Cheese Pizza~glutenfree=false~vegetarian=true~type=woodstone,entree
+Pepperoni Pizza~glutenfree=false~vegetarian=false~type=woodstone,entree
+White Dinner Rolls~glutenfree=false~vegetarian=true~type=breads
+Wowbutter Smores Bar~glutenfree=false~vegetarian=false~type=desserts
+Cheesy Ham Chowder~glutenfree=false~vegetarian=false~type=soups/chowders
+Vegetable Soup - Vegetarian~glutenfree=true~vegetarian=true~type=soups/chowders
+Tater Tot Casserole~glutenfree=false~vegetarian=false~type=entrees
+Vegetable Fettuccine Alfredo~glutenfree=false~vegetarian=true~type=entrees
+Tater Tots~glutenfree=false~vegetarian=true~type=starches
+Whole Baby Carrots~glutenfree=true~vegetarian=true~type=vegetables

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ND Dining</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dash">-</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="notif_title">Notifications On</string>
+    <string name="notif_desc">Turns on or off favorites notifications</string>
+    <string name="delete_button">delete</string>
+    <string name="update_button">update</string>
+    <string name="advanced_label">Advanced Features</string>
+    <string name="favorites_pref">favorites</string>
+    <string name="week_pref">week</string>
+    <string name="alllist_pref">alllist</string>
+    <string name="old_pref">old</string>
+</resources>
